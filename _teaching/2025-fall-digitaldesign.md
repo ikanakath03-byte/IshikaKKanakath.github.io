@@ -14,13 +14,6 @@ Laboratory Instruction: Leading weekly laboratory sessions where students gain h
 Student Support: Conducting regular office hours to provide one-on-one guidance on course concepts, homework problems, and project implementations
 Technical Assistance: Supporting students with debugging their circuit designs and SystemVerilog code, helping them develop systematic approaches to identifying and resolving issues
 Assessment: Grading laboratory assignments and examinations, providing detailed feedback to help students improve their understanding of digital design principles
+I have also been leading exam review sessions and created practice problems for students to solve.
 
 This teaching experience has strengthened my ability to communicate complex technical concepts clearly and has deepened my own understanding of digital systems through explaining fundamental principles to students at various levels of expertise.
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
